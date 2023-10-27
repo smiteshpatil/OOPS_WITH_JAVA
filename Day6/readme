@@ -1,0 +1,7 @@
+project: customer management system
+
+developed CLI application to understand working of packages and implement object oriented style.
+concepts learned:
+1.enums : comes handy while checking user defined types like eunum(ServicePlan) used in this app.
+2.exception handling : learnt about custom exception handling and how to handle them using try-catch and catch all block.
+3.Custom sorting: we can sort the data according to any of the member of class using Comparator. 
